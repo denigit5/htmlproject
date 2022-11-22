@@ -1,0 +1,13 @@
+@media(max-width: 75em){
+
+    #welcome-section{
+        height: 100vh;
+    }
+
+    
+    
+}
+nav{
+    position: absolute;
+    
+}
